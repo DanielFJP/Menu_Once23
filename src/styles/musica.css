@@ -1,0 +1,41 @@
+
+.musica{
+    min-height: 100vh;
+    background-image: url('../img/fondom.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.musica h1{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    margin: 50px 10px 0px 10px; 
+}
+
+.musica h3{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.87);
+    margin: 20px ;
+    font-size: 22px;
+}
+
+.input{
+    margin: 0px 10px 0px 10px;
+    border: none;
+}
+
+#basic-addon1{
+    background: #ffffff;
+    border: #ffffff;
+}
+
+
+
+
+
+
+ 
+

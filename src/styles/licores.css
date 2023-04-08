@@ -1,0 +1,14 @@
+
+.licores h1 {
+    margin-top: 70px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
+
+.licores h3 {
+    text-align: left;
+    color: rgba(255, 255, 255, 0.87);
+    margin: 30px 0px 0px 17px;
+    font-weight: 600;
+}

@@ -1,0 +1,20 @@
+
+.shots h1 {
+    margin-top: 70px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
+
+.cards-shots {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    margin: 15px;
+    gap: 15px;
+    margin-top: 25px;
+
+}
+
+#precio{
+    font-size: 21px;
+}
