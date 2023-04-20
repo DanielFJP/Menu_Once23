@@ -4,7 +4,7 @@ import Footer from '../components/Footer';
 import { Card, Col, Row } from 'react-bootstrap';
 import '../styles/licores.css';
 
-function licores() {
+export function Licores() {
   return (
     <div className='licores'>
           <Navmenu />
@@ -91,4 +91,3 @@ function licores() {
   )
 }
 
-export default licores

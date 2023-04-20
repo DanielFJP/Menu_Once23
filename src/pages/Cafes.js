@@ -15,7 +15,7 @@ import vinoC from '..//img/vinoC.png';
 import '../styles/cafes.css';
 import { Link } from 'react-router-dom';
 
-function cafes() {
+export function Cafes() {
   return (
      
     
@@ -129,7 +129,7 @@ function cafes() {
             </Card.Body>
              <ListGroup variant="flush">
               <ListGroup.Item>cantidad: 9onz</ListGroup.Item>
-                <ListGroup.Item><Link to={'/Precio'}>Ver Precios</Link> </ListGroup.Item>
+                <ListGroup.Item><Link to={'/precio'}>Ver Precios</Link> </ListGroup.Item>
             
             </ListGroup>
           </Card>
@@ -242,4 +242,3 @@ function cafes() {
   )
 }
 
-export default cafes

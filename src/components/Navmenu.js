@@ -41,10 +41,10 @@ function Navmenu() {
               <NavDropdown.Divider />
   </NavDropdown>*/}
               
-              <Link to={'/Cafes'} id='nvg'><Nav.Link href="#home">Bebidas Calientes</Nav.Link></Link> 
-               <Link to={'/Cervezas'} id='nvg'><Nav.Link href="#home">Cervezas</Nav.Link></Link> 
-              <Link to={'/Shots'} id='nvg'><Nav.Link href="#home">Shots</Nav.Link></Link>
-              <Link to={'/SinAlcohol'} id='nvg'><Nav.Link href="#home">Bebidas sin Alcohol</Nav.Link></Link>
+              <Link to={'/cafes'} id='nvg'><Nav.Link href="#home">Bebidas Calientes</Nav.Link></Link> 
+               <Link to={'/cervezas'} id='nvg'><Nav.Link href="#home">Cervezas</Nav.Link></Link> 
+              <Link to={'/shots'} id='nvg'><Nav.Link href="#home">Shots</Nav.Link></Link>
+              <Link to={'/sinalcoholysnaks'} id='nvg'><Nav.Link href="#home">Bebidas sin Alcohol y Snaks</Nav.Link></Link>
               {/*<Link to={"/Musica"} id='nvg'><Nav.Link href="#home">Música</Nav.Link></Link>*/}
           </Nav>
         </Navbar.Collapse>

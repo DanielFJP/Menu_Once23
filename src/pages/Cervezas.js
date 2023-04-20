@@ -10,7 +10,7 @@ import club from '../img/cervezas/club.png';
 import corona from '../img/cervezas/corona.png';
 import '../styles/cervezas.css';
 
-function cervezas() {
+export function Cervezas() {
   return (
     <div className='cervezas'>
           <Navmenu />
@@ -135,4 +135,3 @@ function cervezas() {
   )
 }
 
-export default cervezas

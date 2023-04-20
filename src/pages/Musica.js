@@ -6,7 +6,7 @@ import { HiMusicalNote } from "react-icons/hi2";
 import { Form, InputGroup } from 'react-bootstrap'
 
 
-function Musica() {
+export function Musica() {
     return (
     <div className='musica'>
             
@@ -37,4 +37,3 @@ function Musica() {
   )
 }
 
-export default Musica

@@ -7,7 +7,7 @@ import todorico from '..//img/sinAlcohol_y_Snaks/todorico.png';
 import '../styles/sinalcohol.css';
 
 
-function SinAlcohol() {
+export function SinAlcohol() {
   return (
     <div className='sinalcohol'>
           <Navmenu />
@@ -41,7 +41,7 @@ function SinAlcohol() {
             </Card.Body>
             <ListGroup variant="flush">
         <ListGroup.Item>Cantidad: 150g</ListGroup.Item>
-        <ListGroup.Item id='precio'>$ 2.500</ListGroup.Item>
+        <ListGroup.Item id='precio'>$ 3.000</ListGroup.Item>
       </ListGroup>
           </Card>
         </Col>
@@ -54,4 +54,3 @@ function SinAlcohol() {
   )
 }
 
-export default SinAlcohol

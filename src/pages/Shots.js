@@ -9,7 +9,7 @@ import jager from '../img/shots/jager.png';
 import tequila from '../img/shots/tequila.png';
 import '../styles/shots.css';
 
-function shots() {
+export function Shots() {
   return (
     <div className='shots'>
           <Navmenu />
@@ -112,4 +112,3 @@ function shots() {
   )
 }
 
-export default shots

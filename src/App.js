@@ -5,7 +5,7 @@ import { Button, Dropdown, ButtonGroup } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
 
-function App() {
+export function App() {
   return (
     <div className="pagina1">
       <Navmenu /> 
@@ -17,7 +17,7 @@ function App() {
       <div className='menu'>
 
         <Dropdown as={ButtonGroup}>
-       <Link to={'/Cafes'} id='calientes'><Button variant="outline-light">Bebidas Calientes</Button></Link>
+       <Link to={'/cafes'} id='calientes'><Button variant="outline-light">Bebidas Calientes</Button></Link>
 
           {/*<Dropdown.Toggle split variant="outline-light" id="dropdown-split-basic" />
 
@@ -29,7 +29,7 @@ function App() {
         </Dropdown>
         
         <Dropdown as={ButtonGroup}>
-       <Link to={'/Cervezas'}><Button variant="outline-light" id='cerveza'>Cervezas</Button></Link>
+       <Link to={'/cervezas'}><Button variant="outline-light" id='cerveza'>Cervezas</Button></Link>
 
           {/*<Dropdown.Toggle split variant="outline-light" id="dropdown-split-basic" />
 
@@ -52,9 +52,9 @@ function App() {
           </Dropdown.Menu>
   </Dropdown>*/}
           
-          <Link to={'/Shots'}><Button variant="outline-light" id='shots'>Shots</Button></Link>
+          <Link to={'/shots'}><Button variant="outline-light" id='shots'>Shots</Button></Link>
           
-          <Link to={'/SinAlcohol'}><Button variant="outline-light" id=''>Bebidas sin Alcohol y Snaks</Button></Link>  
+          <Link to={'/sinalcoholysnaks'}><Button variant="outline-light" id=''>Bebidas sin Alcohol y Snaks</Button></Link>  
           </div>
          
          
@@ -64,4 +64,4 @@ function App() {
   );
 }
 
-export default App;
+

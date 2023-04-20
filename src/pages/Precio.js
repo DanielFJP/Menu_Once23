@@ -8,7 +8,7 @@ import '../styles/precio.css';
 import { Link } from 'react-router-dom';
 
 
-function Precio() {
+export function Precio() {
   return (
       <div className='Precio'>
           <Navmenu />
@@ -30,7 +30,7 @@ function Precio() {
           </Card>
           </div>
 
-          <Link to={'/Cafes'}><BsArrowLeftCircleFill id='atras'/></Link>
+          <Link to={'/cafes'}><BsArrowLeftCircleFill id='atras'/></Link>
               
           </div>
           
@@ -38,4 +38,3 @@ function Precio() {
   )
 }
 
-export default Precio
