@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/menu_once23/static/css/main.ba0369a8.css",
+    "main.js": "/menu_once23/static/js/main.7846d621.js",
+    "static/media/fondom.png": "/menu_once23/static/media/fondom.42ae4ce862eb6e214347.png",
+    "static/media/fondo.jpg": "/menu_once23/static/media/fondo.34bac152057e630fa47b.jpg",
+    "static/media/todorico.png": "/menu_once23/static/media/todorico.d6e3d3b99fa29f2e4661.png",
+    "static/media/cap_precio.png": "/menu_once23/static/media/cap_precio.70c7a359af0a773132d2.png",
+    "static/media/jager.png": "/menu_once23/static/media/jager.31259615d29e3937e5c7.png",
+    "static/media/aromaticaL.png": "/menu_once23/static/media/aromaticaL.304c037d963d8a9ce23b.png",
+    "static/media/jackH.png": "/menu_once23/static/media/jackH.638b92a80c93db4bec55.png",
+    "static/media/jackF.png": "/menu_once23/static/media/jackF.9f50641365318c7ae87b.png",
+    "static/media/jackOr.png": "/menu_once23/static/media/jackOr.4e86eedac9b11491e6cf.png",
+    "static/media/tequila.png": "/menu_once23/static/media/tequila.bdc0b88f6e5492506173.png",
+    "static/media/Milo.png": "/menu_once23/static/media/Milo.9f4d61d2ba43321e6904.png",
+    "static/media/club.png": "/menu_once23/static/media/club.0baabe2eea9471a55988.png",
+    "static/media/capLicor.png": "/menu_once23/static/media/capLicor.53e048da9eecfb3d1713.png",
+    "static/media/azalva.png": "/menu_once23/static/media/azalva.5a5f9367a6a1c6e98801.png",
+    "static/media/capuchino.png": "/menu_once23/static/media/capuchino.f06f8c98c674e81443a9.png",
+    "static/media/latte.png": "/menu_once23/static/media/latte.2569eadf03063e76b239.png",
+    "static/media/vinoC.png": "/menu_once23/static/media/vinoC.dffdf9596ef22c5c8117.png",
+    "static/media/costeña.png": "/menu_once23/static/media/costeña.83f6ffe2e162a7606197.png",
+    "static/media/aromaticaB.png": "/menu_once23/static/media/aromaticaB.f498a7d1b0346c2196e5.png",
+    "static/media/americano.png": "/menu_once23/static/media/americano.040f71e63acd1c800bba.png",
+    "static/media/logo.png": "/menu_once23/static/media/logo.264f0c44934aa2d7a057.png",
+    "static/media/light.png": "/menu_once23/static/media/light.3f619ec29959751950f7.png",
+    "static/media/poker.png": "/menu_once23/static/media/poker.0db78f0926618f47cb25.png",
+    "static/media/aguila.png": "/menu_once23/static/media/aguila.16d332646f93dd443939.png",
+    "static/media/expreso.png": "/menu_once23/static/media/expreso.44e6b26584d5ec752a39.png",
+    "static/media/corona.png": "/menu_once23/static/media/corona.489049cf1d9d0f0b80c0.png",
+    "static/media/cafeconLeche.png": "/menu_once23/static/media/cafeconLeche.ccf4f40609afe4e90322.png",
+    "index.html": "/menu_once23/index.html",
+    "main.ba0369a8.css.map": "/menu_once23/static/css/main.ba0369a8.css.map",
+    "main.7846d621.js.map": "/menu_once23/static/js/main.7846d621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba0369a8.css",
+    "static/js/main.7846d621.js"
+  ]
+}
